@@ -137,11 +137,11 @@ Please refer to the detailed installation instructions provided in the the READM
 
 <!-- USAGE EXAMPLES -->
 ## Demo and Usage:
- ![Download the  ROS simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/stereocamera_map.webm)
-<p align="right">(<a href="#top">back to top</a>)</p>
+[Download the  ROS simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/stereocamera_map.webm)
+<p align="right"></p>
 
-![Download the MATLAB simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/matlab_demo.mp4)
-<p align="right">(<a href="#top">back to top</a>)</p>
+[Download the MATLAB simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/matlab_demo.mp4)
+<p align="right"></p>
 1. Setup the required bot by following the steps in the respective directory.
 2. Mount the required sensors on the bot.
    eg -
