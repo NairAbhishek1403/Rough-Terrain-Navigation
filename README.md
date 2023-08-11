@@ -142,7 +142,7 @@ Please refer to the detailed installation instructions provided in the the READM
 
 [Download the MATLAB simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/matlab_demo.mp4)
 <p align="right"></p>
-1. Setup the required bot by following the steps in the respective directory.
+1. Setup the required bot by following the steps in the respective directory. <br>
 2. Mount the required sensors on the bot.
    eg -
    
