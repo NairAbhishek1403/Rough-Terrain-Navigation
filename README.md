@@ -52,13 +52,13 @@
    
    <li><a href="#built-with">Built With</a></li>
       
-  <li><a href="#robot-description">Robot Description</a></li>
+  <li><a href="#robots-description">Robot Description</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
     <li><a href="#demo-and-usage">Demo and Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">RQT GRAPH</a></li>
+    <li><a href="#rqt-graph">RQT GRAPH</a></li>
     <li><a href="#getting-started">Future Implementation</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
