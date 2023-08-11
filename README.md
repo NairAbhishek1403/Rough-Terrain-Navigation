@@ -47,16 +47,16 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#getting-started">About The Project</a>
+      <a href="#about-the-project">About The Project</a>
     </li>
    
    <li><a href="#built-with">Built With</a></li>
       
-  <li><a href="#getting-started">Robot Description</a></li>
+  <li><a href="#robot-description">Robot Description</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#getting-started">Demo and Usage</a></li>
+    <li><a href="#demo-and-usage">Demo and Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">RQT GRAPH</a></li>
     <li><a href="#getting-started">Future Implementation</a></li>
