@@ -52,7 +52,7 @@
    
    <li><a href="#built-with">Built With</a></li>
       
-  <li><a href="#robots-description">Robot Description</a></li>
+  <li><a href="#robots-description">Robots Description</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
