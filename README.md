@@ -94,7 +94,7 @@ Contributors :
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Robots Descrption:
+## Robots Description:
 Our experimentation involved utilizing three distinct robots, each deployed in different environments, to thoroughly test the effectiveness of our algorithms. Each robot was equipped with specific sensors, enabling them to navigate and interact with their respective environments efficiently. Below, we provide a description of each robot, along with the sensors they were equipped with:
 
 1. **JACKAL**:
