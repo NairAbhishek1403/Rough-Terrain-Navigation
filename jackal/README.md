@@ -92,3 +92,8 @@ git clone https://github.com/clearpathrobotics/cpr_gazebo.git
 roslaunch octomap_server octomap_mapping.launch
 rosrun octomap_server octomap_saver my_octomap.bt
 ```
+<br>
+
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/7c40de8f-0589-4d52-a075-aeca3fb8680b
+
+
