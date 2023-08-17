@@ -112,16 +112,16 @@ Please refer to the detailed installation instructions provided in the the READM
 <!-- USAGE EXAMPLES -->
 ## Demo and Usage:
 
-1. Setup the required bot by following the steps in the respective directory. <br>
-2. Mount the required sensors on the bot.<br>
-   eg -<br>
+1. Setup the required bot by following the steps in the respective directory. 
+2. Mount the required sensors on the bot.
+   eg 
    
 ```
    export JACKAL_URDF_EXTRAS=$HOME/Desktop/realsense.urdf.xacro
 ```
-<br>
-3. Launch the required world file and the gmapping algorithm.<br>
-   eg -<br>
+
+3. Launch the required world file and the gmapping algorithm.
+   eg -
     
 ```
    roslaunch cpr_inspection_gazebo inspection_world.launch 
@@ -129,14 +129,14 @@ Please refer to the detailed installation instructions provided in the the READM
    roslaunch jackal_navigation gmapping_demo.launch 
 ```
 The following commands launches the world file, RVIZ and the gmapping algorithm required for the simulation and mapping
-<br>
-4. Create and download the .pgm file of the map of the world.<br>
-   eg -<br>
+
+4. Create and download the .pgm file of the map of the world.
+   eg -
     
 ```
    rosrun map_server map_saver
 ```
-<br>
+
 5. Open Matlab Scripts and establish the connection between the two systems to set up co-simulation.<br>
 6. Run the .mlx files in order according to the readme file of MATLAB Scripts to view the results<br>
 <br>
@@ -190,6 +190,17 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br>
+
+## Reference Papers
+1. [MarsSim: A High-Fidelity Physical and Visual Simulation for Mars Rovers](https://ieeexplore.ieee.org/document/9894666)
+2. [OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees](https://courses.cs.washington.edu/courses/cse571/16au/slides/hornung13auro.pdf)
+3. [Indoor mapping using gmapping on embedded system](https://ieeexplore.ieee.org/document/8324786)
+4. [Path planning using Matlab-ROS integration applied to mobile robots](https://www.researchgate.net/publication/317660787_Path_planning_using_Matlab-ROS_integration_applied_to_mobile_robots)
+5. [Efficient Exploration Algorithms for Rough Terrain Modeling Using Triangular Mesh Maps](https://ieeexplore.ieee.org/abstract/document/4681352)
+6. [Model Predictive Control Design: New Trends and Tools](https://ieeexplore.ieee.org/document/4178103)
+
+<br>
 
 <!-- CONTACT -->
 ## Contact
