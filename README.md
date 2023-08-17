@@ -182,7 +182,7 @@ The following commands launches the world file, RVIZ and the gmapping algorithm 
 
 ## RQT GRAPH
 <div style="display: flex; align-items: center;">
-  <img src="./rosgraph.png" alt="Jackal Robot" width="1000" length="1000" style="float: centre; margin-right: 20px;">
+  <img src="./rosgraphmatlab.png" alt="Jackal Robot" width="1000" length="1000" style="float: centre; margin-right: 20px;">
   <p>.</p>
 </div>
 
