@@ -111,11 +111,7 @@ Please refer to the detailed installation instructions provided in the the READM
 
 <!-- USAGE EXAMPLES -->
 ## Demo and Usage:
-[Download the  ROS simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/stereocamera_map.webm)
-<p align="right"></p>
 
-[Download the MATLAB simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/matlab_demo.mp4)
-<p align="right"></p>
 1. Setup the required bot by following the steps in the respective directory. <br>
 2. Mount the required sensors on the bot.<br>
    eg -<br>
@@ -143,7 +139,15 @@ The following commands launches the world file, RVIZ and the gmapping algorithm 
 <br>
 5. Open Matlab Scripts and establish the connection between the two systems to set up co-simulation.<br>
 6. Run the .mlx files in order according to the readme file of MATLAB Scripts to view the results<br>
+<br>
+<br>
 
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/6de0ee97-a1fb-4877-9962-410aa43c251b
+
+
+
+
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/2e5013a4-7434-4b2c-88c8-2b069c11f5ca
 
 
 
