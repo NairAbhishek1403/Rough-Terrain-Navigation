@@ -38,6 +38,7 @@
     <li><a href="#rqt-graph">RQT GRAPH</a></li>
     <li><a href="#getting-started">Future Implementation</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#reference-papers">Reference Papers</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
