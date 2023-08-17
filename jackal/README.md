@@ -40,36 +40,36 @@ git clone https://github.com/clearpathrobotics/cpr_gazebo.git
  Refer to the following link to access various sensors - [Sensors](https://www.clearpathrobotics.com/assets/guides/melodic/jackal/description.html)
  <div style="display: flex; align-items: center;">
   <img src="./1.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="./2.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="./3.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="./4.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 ## Visualisation
 1. Depth Camera
    <div style="display: flex; align-items: center;">
   <img src="./depthcam.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 3. Stereo Camera
 <div style="display: flex; align-items: center;">
   <img src="./octomap.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 4. 3D Lidar - Velodyne
 <div style="display: flex; align-items: center;">
   <img src="./velodyne.png" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 ## OCTOMAP
