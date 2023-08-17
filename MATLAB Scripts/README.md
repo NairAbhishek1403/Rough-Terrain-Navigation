@@ -83,6 +83,10 @@ Hybrid A* Global Path Planner is an extension of the traditional A* algorithm th
   <p></p>
 </div>
 
+## Path Planning algorithm inferences
+1. RRT* is an improvement over the basic RRT algorithm in terms of optimality. It guarantees an optimal solution if one exists, while the basic RRT provides a feasible solution but is not necessarily optimal. However, this improvement comes at the cost of increased computational complexity. The choice between RRT and RRT* depends on the specific requirements of the application: if finding an optimal solution is critical, RRT* might be preferred, but if quick planning and feasibility are more important, the basic RRT might be a better choice.
+2. While both A* and Hybrid A* are pathfinding algorithms, A* is well-suited for discrete grid-based environments, whereas Hybrid A* extends the concept to handle continuous environments by using sampling techniques to improve efficiency and applicability to real-world scenarios.
+
 ## Localisation :
 AMCL (Adaptive Monte Carlo Localization) is a probabilistic localization algorithm widely used in robotics and autonomous systems to accurately estimate the pose (position and orientation) of a robot within its environment, utilizing a particle filter approach that dynamically adjusts the number of particles to adapt to changing uncertainties.
 <div style="display: flex; align-items: center;">
