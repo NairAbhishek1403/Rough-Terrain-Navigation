@@ -28,7 +28,7 @@ Following are the steps taken for running this project -
 
 <div style="display: flex; align-items: center;">
   <img src="./worldgh.jpeg" alt="Jackal Robot" width="1000" length="1000" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 2. Launching the robot in this environment using the launch file which contains the world file location in the catkin workspace.<br>
@@ -42,12 +42,12 @@ Following are the steps taken for running this project -
 4. Once the pgm file or occupancyMap is available, use a matlab mlx script of the planner that we want to test (A*, RRT planner, RRT* planner, Hybride A*) to generate a path using particular algorithm.
 <div style="display: flex; align-items: center;">
   <img src="./hex.jpeg" alt="Jackal Robot" width="1000" length="1000" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="./shapes.jpeg" alt="Jackal Robot" width="1000" length="1000" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 
