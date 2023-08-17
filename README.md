@@ -7,7 +7,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="./jackal.jpeg" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 
 
