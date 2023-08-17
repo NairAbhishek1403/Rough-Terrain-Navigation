@@ -72,6 +72,21 @@ git clone https://github.com/clearpathrobotics/cpr_gazebo.git
   <p>.</p>
 </div>
 
+## OCTOMAP
+1. Probabilistic Mapping Framework: OctoMap is a probabilistic 3D mapping framework used in robotics and computer graphics. It represents environments as an octree, assigning probabilities to voxels (3D grid 
+   cells) to indicate occupancy likelihood.
+
+2. Sensor Fusion and Noise Handling: OctoMap excels at fusing data from multiple sensors, such as lidar and depth cameras. Its probabilistic approach effectively handles sensor noise and uncertainties, resulting 
+   in accurate and adaptable maps.
+
+3. Collision-Free Path Planning: By distinguishing between occupied and free spaces, OctoMap enables collision-free navigation. It's particularly valuable for robots moving in cluttered or dynamic environments, 
+   aiding in safe path planning.
+
+4. Unmapped Area Exploration: OctoMap identifies areas with uncertain occupancy, signaling unexplored regions. This encourages robots to autonomously explore and map unknown territories, contributing to 
+   comprehensive environment mapping.
+
+5. Memory and Efficiency: OctoMap balances detailed representation with memory efficiency. It optimizes storage by utilizing an octree structure, allowing for high-resolution maps without excessive memory usage. 
+   Efficient access to map data supports real-time applications
 ## Steps to save octomap
 ```
 roslaunch octomap_server octomap_mapping.launch
