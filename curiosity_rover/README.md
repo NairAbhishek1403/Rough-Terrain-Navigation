@@ -25,19 +25,19 @@ You will be able to run 'roslaunch' commands, for example:
 `roslaunch curiosity_mars_rover_gazebo main_mars_terrain.launch`
 <div style="display: flex; align-items: center;">
   <img src="./rover3.jpeg" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="./rover1.jpeg" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="./rover2.jpeg" alt="Jackal Robot" width="500" style="float: centre; margin-right: 20px;">
-  <p>.</p>
+  <p></p>
 </div>
 <br>
 
-##Simulations
+## Simulations
 
 https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/4aa992a4-571f-4c23-a29b-e37781450b4a
 
