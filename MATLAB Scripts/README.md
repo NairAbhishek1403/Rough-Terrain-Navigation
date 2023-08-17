@@ -44,7 +44,11 @@ MATLAB was used to receive sensor data from the Gazebo bot. This data was later 
 </div>
 
 *rosbag file was recorded in the linux system and ROSbagfile viewer app(R2023a) was used to visualise the recorded data*
+<br>
 
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/a81afa7b-d3ac-43a7-9534-a46306feaea1
+
+<br>
 ## Global Path Planners :
 After thorough experimentation with various path planners, including RRT, RRT*, A*, and Hybrid A*, we present the results of our tests.<br>
 
@@ -103,3 +107,8 @@ The simulink Model interfaces with a Robot Operating System (ROS) environment, r
 
 *4. Motion Planning :*<br>
       PathFollowingWithObstacleAvoidanceInSimulink.mlx
+
+
+<br>
+
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/2fc75717-ea71-44f8-bb29-8db2674aa7eb
