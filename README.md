@@ -140,24 +140,32 @@ Please refer to the detailed installation instructions provided in the the READM
 [Download the MATLAB simulation](https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/blob/noetic/matlab_demo.mp4)
 <p align="right"></p>
 1. Setup the required bot by following the steps in the respective directory. <br>
-2. Mount the required sensors on the bot.
-   eg -
+2. Mount the required sensors on the bot.<br>
+   eg -<br>
    
 ```
    export JACKAL_URDF_EXTRAS=$HOME/Desktop/realsense.urdf.xacro
 ```
-3. Launch the required world file and the gmapping algorithm.
-   eg -
+<br>
+3. Launch the required world file and the gmapping algorithm.<br>
+   eg -<br>
     
 ```
    roslaunch cpr_inspection_gazebo inspection_world.launch 
    roslaunch jackal_viz view_robot.launch
    roslaunch jackal_navigation gmapping_demo.launch 
 ```
-   
-4. Create and download the .pgm file of the map of the world.
-5. Open Matlab Scripts and establish the connection between the two systems to set up co-simulation.
-6. Run the .mlx files in order to view the results
+The following commands launches the world file, RVIZ and the gmapping algorithm required for the simulation and mapping
+<br>
+4. Create and download the .pgm file of the map of the world.<br>
+   eg -<br>
+    
+```
+   rosrun map_server map_saver
+```
+<br>
+5. Open Matlab Scripts and establish the connection between the two systems to set up co-simulation.<br>
+6. Run the .mlx files in order according to the readme file of MATLAB Scripts to view the results<br>
 
 
 
