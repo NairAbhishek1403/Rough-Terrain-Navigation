@@ -180,9 +180,9 @@ Please refer to the detailed installation instructions provided in the the READM
 
 ## FUTURE IMPLEMENTATION
 1. Implementing dynamic obstacle avoidance.
-2. Enhance mapping of rough terrain.
-3. Changing the existing control system of the bots
-4. Using the concept of reinforcement learning.
+2. Enhance mapping of rough terrain by Triangular Mesh Map.
+3. Changing the existing Pure Pursuit Controller with a Model Predictive Controller.
+4. Exploring Toolboxes like Parallel Computing and LIDAR.
 
 
 <!-- CONTRIBUTING -->
